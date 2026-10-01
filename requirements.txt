@@ -1,0 +1,12 @@
+# Create the game window
+# Draw the snake
+# Make the snake move
+# Add keyboard controls
+# Generate food
+# Make the snake grow
+# Detect wall collision
+Detect self collision
+# Add score
+Add Game Over / Restart
+Improve the UI
+Later: add difficulty levels, high score, sounds, etc.
